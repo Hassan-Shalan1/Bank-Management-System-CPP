@@ -40,7 +40,7 @@ This first part of the project includes:
 
 # 📂 Source Code
 
-👉 **[SourceCodeBank_01](https://github.com/Hassan-Shalan1/Bank-Management-System-CPP/tree/master/ProjectBanck1)**
+👉 **[SourceCodeBank_01](https://github.com/Hassan-Shalan1/Bank-Management-System-CPP/blob/master/ProjectBanck1/ProjectBanck1.cpp)**
 
 ---
 
@@ -102,7 +102,7 @@ This work was inspired and made possible through his educational platform *Progr
 
 # 📂 الكود
 
-👉 [SourceCodeBank_01](https://github.com/Hassan-Shalan1/Bank-Management-System-CPP/tree/master/ProjectBanck1)
+👉 [SourceCodeBank_01](https://github.com/Hassan-Shalan1/Bank-Management-System-CPP/blob/master/ProjectBanck1/ProjectBanck1.cpp)
 ---
 
 # 📬 Contact
