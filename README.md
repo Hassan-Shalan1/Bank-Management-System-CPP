@@ -1,88 +1,72 @@
-# 🏦 Bank Management System
-
-## 📖 Overview
-
-The **Bank Management System** is a console-based application developed in **C++** to simulate a real banking environment. It allows users to manage client accounts, perform banking transactions, and store data efficiently using file handling.
+# 🏦 Bank System Project
 
 ---
 
-## ✨ Features
+# 📄 Overview
 
-- 👤 User Authentication (Login System)
-- ➕ Add New Client
-- 📝 Update Client Information
-- ❌ Delete Client
-- 📋 View Client List
-- 🔍 Search for a Client
-- 💰 Deposit Money
-- 💸 Withdraw Money
-- 🔄 Transfer Money Between Clients
-- 📊 View Total Balances
-- 💾 Save and Load Data Using Files
+The **Bank System Project** is a console-based application developed using **C++**. It simulates a simple banking system that allows users to manage client accounts and perform essential banking operations through an easy-to-use text-based interface.
 
 ---
 
-## 📂 Project Structure
+# ⚙️ Features
 
-The project is organized into several modules:
-
-- Login & Authentication
-- Client Management
-- Transactions
-- File Handling
-- Utility Functions
-- Menus & Navigation
+- 👤 **User Login:** Secure access to the banking system.
+- ➕ **Add New Client:** Create and save new client records.
+- ✏️ **Update Client Information:** Edit existing client data.
+- ❌ **Delete Client:** Remove client records when needed.
+- 📋 **View Clients List:** Display all registered clients.
+- 🔍 **Find Client:** Search for a client using the account number.
+- 💵 **Deposit:** Deposit money into a client's account.
+- 💸 **Withdraw:** Withdraw money from a client's account.
+- 🔄 **Transfer Money:** Transfer funds between client accounts.
+- 📊 **Total Balances:** Display the total balances of all clients.
 
 ---
 
-## 🛠 Technologies Used
+# 📁 Project Structure
+
+This project includes:
+
+1. Login System.
+2. Client Management.
+3. Transactions Management.
+4. File Handling.
+5. Utility Functions.
+6. Console-Based User Interface.
+
+---
+
+# 👨‍💻 Technologies Used
 
 - **Programming Language:** C++
-- **IDE:** Visual Studio 2022
+- **Development Environment:** Visual Studio 2022
 - **Programming Paradigm:** Procedural Programming
-- **Concepts Applied:**
-  - Functions
-  - File Handling
-  - Structures
-  - Enums
-  - Modular Programming
+- **File Storage:** Text Files
 
 ---
 
-## 🚀 How to Run
+# 💡 How to Run
 
-1. Clone this repository.
-2. Open the solution in **Visual Studio 2022**.
-3. Build the project.
-4. Run the application.
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of the Login Screen, Main Menu, Transactions, and Client List here.
+- Open the project using **Visual Studio 2022**.
+- Open the solution file (`Bank System.sln`).
+- Build the project.
+- Run the application.
 
 ---
 
-## 📚 What I Learned
+# 📂 Source Code
 
-This project helped me improve my skills in:
-
-- File Handling
-- Problem Solving
-- Code Organization
-- Console Application Development
-- Building Complete C++ Projects
+👉 **SourceCodeBankSystem**
 
 ---
 
-## 🙏 Acknowledgment
+# 🙏 Acknowledgment
 
-Special thanks to **Dr. Mohammed Abu-Hadhoud** and **ProgrammingAdvices** for providing valuable educational content that inspired and guided the development of this project.
+Special thanks to **Dr. Mohammed Abu-Hadhoud** for his outstanding educational content and continuous guidance. This project was developed while learning through **ProgrammingAdvices**, which greatly helped me improve my C++ programming and problem-solving skills.
 
 ---
 
-## 👨‍💻 Author
+# 👤 Author
 
 **Hassan Shaalan**
 
